@@ -1,6 +1,6 @@
 <div align="center" style="font-family:monospace;">
   
-<img src="https://avatars.githubusercontent.com/u/137907119?v=4" alt="drawing" style="border-radius:10%;width:140px"/>
+<img src="https://github.com/xenoxsite/avatars/blob/main/image/Xenoxsite.png?raw=true" alt="drawing" style="border-radius:10%;width:140px"/>
   
 <h1 align="center">Hi 👋, I'm Xenoxsite</h1>
 
