@@ -5,11 +5,11 @@
 <h1 align="center">Hi 👋, I'm Xenoxsite</h1>
 
 
-<h3 align="center">Nerdy Logician Computer Science Guy</h3>
+<h3 align="center">ⓘThis user is suspected to be part of a terrorist Organization.</h3>
 
 #
 
-Linux & Rust Enjoyer
+Linux & Opensource Enjoyer
 
 Wanna be a computer scientist
 
@@ -34,4 +34,4 @@ Rust, Cpp and C are my Fav Langs.
 
 #
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xenoxanite&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Xenoxsite&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
